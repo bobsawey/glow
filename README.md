@@ -41,7 +41,7 @@ For `lsun`, since download can be quite big, you can instead follow the instruct
 
 ## Simple Train with 1 GPU
 
-Run wtih small depth to test
+Run with small depth to test
 ```
 CUDA_VISIBLE_DEVICES=0 python train.py --depth 1
 ```
